@@ -144,3 +144,9 @@ This project is for educational and prototyping use. See [LICENSE](LICENSE) if p
 - [ChromaDB](https://docs.trychroma.com/)
 - [Google Gemini](https://ai.google.dev/)
 - [Wikipedia REST API](https://www.mediawiki.org/wiki/API:REST_API)
+- ![image](https://github.com/user-attachments/assets/253c24d7-2846-48ca-a1f1-ad370541aa62)
+![image](https://github.com/user-attachments/assets/ac941960-3719-4dfb-9fae-4587d1ccea31)
+![image](https://github.com/user-attachments/assets/58eef32a-022f-4327-b54d-7022c6edc541)
+
+![image](https://github.com/user-attachments/assets/42e06f6d-7051-4238-a6b1-902431d8c772)
+![image](https://github.com/user-attachments/assets/681712ea-b763-494c-8973-50b3722b7daa)
