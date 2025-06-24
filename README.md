@@ -31,7 +31,7 @@ This project is a visual flow-based GenAI stack builder and chat interface, buil
 ### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
+git clone github.com/dilsh6/GenAI-Model
 cd GenAI
 ```
 
